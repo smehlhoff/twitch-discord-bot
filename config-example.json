@@ -1,0 +1,17 @@
+{
+  "bot": {
+    "debug": false,
+    "owner": ""
+  },
+  "discord": {
+    "key": ""
+  },
+  "twitch": {
+    "client_id": "",
+    "client_secret": "",
+    "token": ""
+  },
+  "wunderground": {
+    "key": ""
+  }
+}

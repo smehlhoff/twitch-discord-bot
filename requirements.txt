@@ -11,5 +11,5 @@ pytz==2018.3
 six==1.11.0
 SQLAlchemy==1.2.5
 uptime==3.0.1
-websockets==4.0.1
+websockets==5.0
 yarl==1.1.1

@@ -1,6 +1,6 @@
 ## Quick Start
 
-1) Fill out `config.json` file.
+1) Rename `config-example.json` to `config.json`.
 
 2) Setup EC2 instance
 
